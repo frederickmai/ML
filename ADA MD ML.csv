@@ -1,0 +1,9 @@
+Possible of Assay Criteria Change,,,,
+Assay Format,Bridging,ACE,SPEAD,PandA
+Buffer Background,Buffer,,,
+Serum Background,Pooled Serum Lot change,Pooled from selective individual,,
+Assay range,Signal to noise >=2 for ADA<=100,,,
+Individual serum background signal,How to determine the population has the suitable variation for the assay,,,
+Individual serum inhibited signal,Drug Concentration,,,
+Drug tolerance,,,,
+Selectivity,Generate from the first run using dilution curve and individual serum estimate cut point,,,
